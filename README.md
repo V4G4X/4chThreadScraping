@@ -23,3 +23,12 @@ to download all posts in a thread at OG Format.
                 .  
                 .  
 ```
+
+## Required python Libraries:
+* sys
+* requests
+* bs4 
+* pandas 
+* os
+* pathlib
+* wget
