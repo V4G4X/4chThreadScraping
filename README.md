@@ -32,3 +32,6 @@ to download all posts in a thread at OG Format.
 * os
 * pathlib
 * wget
+
+### Run:
+```pip install -r requirements.txt```
